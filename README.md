@@ -7,21 +7,13 @@
 ---
 
 ## 🚀 Tecnologias que uso
-![HTML](<img width="860" height="976" alt="html5-logo-8" src="https://github.com/user-attachments/assets/29cfcfab-93ea-4515-bbb6-c7506c26d217" />)
-![CSS](<img width="860" height="860" alt="CSS3" src="https://github.com/user-attachments/assets/bd9a65c6-cd09-4417-9150-c5f31690f700" />)
-![JS](<img width="512" height="512" alt="JavaScript" src="https://github.com/user-attachments/assets/1fed51f4-f8dc-41f1-b15d-077837db782f" />)
-![Node](<img width="512" height="512" alt="Node js" src="https://github.com/user-attachments/assets/e9b53222-cd3f-4d3a-a725-d3c7daf61b74" />)
-![TS](<img width="512" height="512" alt="TypeScript" src="https://github.com/user-attachments/assets/53da237c-6808-4f90-b9eb-087cf5797556" />)
-![Python](<img width="512" height="512" alt="Python" src="https://github.com/user-attachments/assets/f0a023c2-b373-4297-a2bf-49ad7dc3fc5b" />)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
 
 ## 🌎 Onde me encontrar
 [![LinkedIn]((https://www.linkedin.com/in/bryan-costa-51b99b36a/))]

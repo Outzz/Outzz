@@ -16,5 +16,5 @@
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-costa-51b99b36a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:bryancosta.cruz@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((https://mail.google.com/mail/u/0/#inbox?compose=new))
 

@@ -13,8 +13,6 @@
 
 ---
 
-
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-costa-51b99b36a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancosta.cruz@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Bryan%2C%20tudo%20bem%3F%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)

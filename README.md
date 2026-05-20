@@ -1,18 +1,63 @@
-# 👋 Olá, eu sou o Bryan!
+````md
+<h1 align="center">Olá, eu sou o Bryan Costa</h1>
 
-🎓 Estudante de desenvolvimento  
-💻 Apaixonado por **Front-end**, **Back-end** e **projetos criativos**  
-🚀 Sempre aprendendo e compartilhando código!
-
----
-
-## 🚀 Tecnologias que uso
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  💻 Desenvolvedor Back-end em evolução <br>
+  🚀 Criando projetos criativos, sistemas e experiências digitais
+</p>
 
 ---
 
-## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-costa-51b99b36a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancosta.cruz@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Bryan%2C%20tudo%20bem%3F%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
+## 🧠 Sobre mim
+
+```js
+const bryan = {
+  foco: ["Back-end", "Game Dev", "UI/UX"],
+  estudando: ["JavaScript", "TypeScript", "Node.js"],
+  objetivo: "Transformar ideias em projetos únicos"
+}
+````
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,git,github,vscode,figma,mysql" />
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Outzz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Outzz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Projetos em destaque
+
+🌐 APIs e Back-end
+🧩 Interfaces modernas e responsivas
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bryan-costa-51b99b36a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bryancosta.cruz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+```
